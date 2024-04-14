@@ -1,0 +1,16 @@
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\bin\Debug\net8.0-windows\Obrazy.exe
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\bin\Debug\net8.0-windows\Obrazy.deps.json
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\bin\Debug\net8.0-windows\Obrazy.runtimeconfig.json
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\bin\Debug\net8.0-windows\Obrazy.dll
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\bin\Debug\net8.0-windows\Obrazy.pdb
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\Obrazy.Form1.resources
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\Obrazy.csproj.GenerateResource.cache
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\Obrazy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\Obrazy.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\Obrazy.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\Obrazy.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\Obrazy.dll
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\refint\Obrazy.dll
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\Obrazy.pdb
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\Obrazy.genruntimeconfig.cache
+C:\Users\Łukasz\source\repos\Laby3\Obrazy\obj\Debug\net8.0-windows\ref\Obrazy.dll

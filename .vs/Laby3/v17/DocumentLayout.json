@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0141ukasz\\source\\repos\\Laby3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D4CD51-57C9-4606-A929-5B5120B70138}|Laby3\\Laby3.csproj|c:\\users\\\u0142ukasz\\source\\repos\\laby3\\laby3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D4CD51-57C9-4606-A929-5B5120B70138}|Laby3\\Laby3.csproj|solutionrelative:laby3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF44EEF-9934-40D1-8065-8B04A33FE53B}|Obrazy\\Obrazy.csproj|c:\\users\\\u0142ukasz\\source\\repos\\laby3\\obrazy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAF44EEF-9934-40D1-8065-8B04A33FE53B}|Obrazy\\Obrazy.csproj|solutionrelative:obrazy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF44EEF-9934-40D1-8065-8B04A33FE53B}|Obrazy\\Obrazy.csproj|C:\\Users\\\u0141ukasz\\source\\repos\\Laby3\\obrazy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF44EEF-9934-40D1-8065-8B04A33FE53B}|Obrazy\\Obrazy.csproj|solutionrelative:obrazy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Laby3\\Laby3\\Form1.cs",
+              "RelativeDocumentMoniker": "Laby3\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Laby3\\Laby3\\Form1.cs*",
+              "RelativeToolTip": "Laby3\\Form1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:29:09.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Laby3\\Obrazy\\Form1.cs",
+              "RelativeDocumentMoniker": "Obrazy\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Laby3\\Obrazy\\Form1.cs",
+              "RelativeToolTip": "Obrazy\\Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:36:36.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\\u0141ukasz\\source\\repos\\Laby3\\Obrazy\\Form1.cs",
+              "RelativeDocumentMoniker": "Obrazy\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0141ukasz\\source\\repos\\Laby3\\Obrazy\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Obrazy\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:32:58.13Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

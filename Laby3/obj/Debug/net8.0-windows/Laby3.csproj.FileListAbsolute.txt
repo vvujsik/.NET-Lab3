@@ -1,0 +1,16 @@
+C:\Users\Łukasz\source\repos\Laby3\Laby3\bin\Debug\net8.0-windows\Laby3.exe
+C:\Users\Łukasz\source\repos\Laby3\Laby3\bin\Debug\net8.0-windows\Laby3.deps.json
+C:\Users\Łukasz\source\repos\Laby3\Laby3\bin\Debug\net8.0-windows\Laby3.runtimeconfig.json
+C:\Users\Łukasz\source\repos\Laby3\Laby3\bin\Debug\net8.0-windows\Laby3.dll
+C:\Users\Łukasz\source\repos\Laby3\Laby3\bin\Debug\net8.0-windows\Laby3.pdb
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\Laby3.Form1.resources
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\Laby3.csproj.GenerateResource.cache
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\Laby3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\Laby3.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\Laby3.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\Laby3.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\Laby3.dll
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\refint\Laby3.dll
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\Laby3.pdb
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\Laby3.genruntimeconfig.cache
+C:\Users\Łukasz\source\repos\Laby3\Laby3\obj\Debug\net8.0-windows\ref\Laby3.dll
